@@ -1,0 +1,11 @@
+这是反 AI 生成感的硬规则总纲，任何风格都建议挂一份。
+
+正向写法：把"完美"换成具体的相机/镜头/光位/胶片/ISO；把"漂亮"换成具体的服饰布料、口红色号、发丝飞散；把"梦幻"换成具体的色温、阴影衰减、光晕方向。
+
+反 AI tells（出现就删）：完美、惊艳、绝美、无瑕、masterpiece、8K、ultra-detailed、hyperrealistic、cinematic、highly detailed、best quality、trending on artstation、octane render、unreal engine。
+
+反 AI 视觉特征（结构性禁忌）：玻璃般皮肤、瓷娃娃肌、玩偶对称脸、过亮高光、过强 HDR、塑料反射、所有人都看镜头并微笑、过度磨皮、过强锐化、过强饱和、假胶片 LUT 一致涂抹。
+
+放进 avoid_prompt（绝不混在正向描述里）：no plastic skin, no waxy highlights, no doll symmetry, no oversharpening, no over-smoothed face, no HDR halo, no fake film LUT, no AI artifacts, no extra fingers, no warped hands, no merged limbs, no asymmetric pupils, no text, no watermark, no logo, no signature, no border, no collage.
+
+真实感锚点（写人像写真时尽量加几条）：自然毛孔在近景可见、轻微面部不对称、零星雀斑或痣、几缕飞散发丝、衣料看得见织线和针脚、轻微镜头畸变、bokeh 球不是完美圆形、构图轻微偏离正中、视线不死盯镜头、表情有一丝不专心或自然停顿。

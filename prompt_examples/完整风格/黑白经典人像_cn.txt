@@ -1,0 +1,20 @@
+风格：经典黑白人像，Ilford HP5+ / Tri-X 风格，强调结构、肌理与神情。
+
+相机与胶片：Leica M6 / Nikon FM2 / Hasselblad 500CM 中画幅，50mm f/1.4 或 80mm f/2.8；胶片走 Ilford HP5+ 400 推到 800 增加颗粒、Tri-X 400 标准曝光、或 T-Max 100 极细颗粒。
+
+光线：单一硬光或半硬光，光位讲究——
+  - Rembrandt 光：主光 45° 入射且略高，鼻翼下方出现倒三角小光斑在远侧脸颊；
+  - 分光 split：主光纯侧 90°，一半脸亮一半脸暗，鼻梁中线分界；
+  - 蝶光 butterfly：正面顶光，鼻下蝴蝶状阴影；
+  - 低 key：背景压成纯黑，主体边缘留细线光勾轮廓。
+光比建议 4:1 到 8:1，有清晰但不死黑的暗部。
+
+曝光与质感：ISO 400-800，f/2.0-f/2.8 浅景深，快门 1/125s 室内。胶片颗粒在均匀色块上能看出但不刺眼，高光丝绒过渡，深灰阴影保留细节。
+
+主体表现：表情克制，半张嘴呼气、垂眼、目光直视镜头、侧脸沉思；手部参与（托腮、抚发、点烟、握书）；视线不必正面盯镜头。情绪关键词：内敛、专注、思考、克制、沉静、坚定。
+
+服饰与场景：纯色衣物（白衬衫、黑高领、深色西装、棉麻），无大面积花纹；背景是纯灰/纯黑墙面、木质门框、磨砂玻璃后侧、铸铁栏杆、深色幕布。
+
+调色（仍是黑白）：富士 ACROS 或 Ilford 风格——中性灰阶丰富，皮肤亮度落在中灰偏亮一档；不要做超高对比或低对比平板灰。
+
+避免：no flat grey blur, no fake film grain overlay, no HDR halftone, no anime sparkle eyes, no overdone vignette, no high frequency texture sharpening, no logo, no text, no color leak.

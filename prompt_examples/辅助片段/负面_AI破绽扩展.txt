@@ -1,0 +1,2 @@
+把这些追加到 avoid_prompt 字段（不是正向描述）：
+no plastic skin, no waxy highlights, no porcelain doll skin, no airbrushed face, no symmetric anime eyes, no glowing pupils, no over-smoothed pores, no over-sharpened eyelash, no halftone HDR halo, no chromatic LUT overprocessing, no fake film grain overlay, no perfect bokeh circles, no readable signage text, no logo, no watermark, no signature, no border, no collage, no AI artifacts.

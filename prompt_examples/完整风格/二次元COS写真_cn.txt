@@ -1,0 +1,21 @@
+风格：二次元 COS 写真，真人 cosplay 摄影，目标是看起来是相机实拍而非二次元插画。
+
+定位：这是"穿 cos 服在真实场景中被相机拍下"的写真，不是"动漫插画风格"——必须保留所有真实摄影特征：真实皮肤纹理、真实布料垂坠、真实环境深度、真实景深和光影。
+
+相机：Sony A7 IV / Canon EOS R6，85mm f/1.4 中长焦（半身）或 35mm f/1.8（环境带入）。
+
+光线：自然光或柔光箱（不要硬正闪）：
+  - 室内：单一柔光箱侧光 45°，配反光板填阴；
+  - 户外：阴天漫射或黄金时刻柔逆光；
+  - 影棚再现"次元壁"：可用纯色背景纸 + 一盏背景灯 + 主柔光 + 发轮廓光。
+眼神光是真实柔光形状，不是夸张星芒。
+
+妆容与假发：假发是真实假发（看得出假发线条与发丝光泽），妆容偏舞台但保留皮肤纹理；瞳片可见但不夸张到 anime 程度；眉毛贴着皮肤而非画在脸外；眼妆贴合眼形不要画成动漫眼。允许化妆品过渡处偶尔轻微显色差。
+
+服饰道具：cos 服必须有可见的布料织线、车线、绑带、皮带扣、金属饰件磨损；武器/道具是道具感（看出是泡沫、PVC、亚克力），不要画成游戏 CG 质感；蓬蓬裙看到裙撑结构和缝线。
+
+主体表现：自然 pose，可以是角色经典招牌动作的中间一帧而不是定格夸张造型；表情有人味，可以是收尾的呼气、整理头发、扶剑、低头一笑。
+
+场景：废墟、长廊、樱花树、海岸、地下停车场、白色背景纸；不要写实游戏场景塞进去（避免 unreal engine 感）。
+
+避免：no anime illustration look, no flat shading, no cel-shading, no oversaturated digital paint, no plastic doll face, no over-smoothed skin, no glowing eyes, no game CG background, no octane render, no unreal engine, no readable game UI elements.

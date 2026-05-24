@@ -1,0 +1,35 @@
+{
+  "active": "Default",
+  "profiles": {
+    "Default": {
+      "note": "",
+      "settings": {
+        "general_prompt": "",
+        "main_prompt": "",
+        "person_prompt": "",
+        "style_prompt": "",
+        "scene_prompt": "",
+        "avoid_prompt": "",
+        "prompt_file": "",
+        "refs": [],
+        "n": 2,
+        "quality": "high",
+        "size_preset": "Auto",
+        "custom_size": "1024x1536",
+        "orientation": "真正自动",
+        "format": "png",
+        "compression": 90,
+        "moderation": "low",
+        "action": "generate",
+        "partial_images": 0,
+        "out_dir": "\\output",
+        "model": "gpt-5.5",
+        "polish_model": "gpt-5.5",
+        "target_language": "简体中文",
+        "retries": 5,
+        "timeout": 300,
+        "max_concurrency": 1
+      }
+    }
+  }
+}

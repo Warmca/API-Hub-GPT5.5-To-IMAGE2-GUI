@@ -1,0 +1,2 @@
+把这些追加到 avoid_prompt 字段（手部畸形是 AI 生图最容易翻车的地方）：
+no extra fingers, no missing fingers, no merged fingers, no warped knuckles, no impossible thumb angle, no fused hand, no doll-like nails, no glove without seams, no floating ring without finger, no double wrist, no boneless fingers, no eight-fingered hand, no hand with palm facing wrong way, no mirror-image hands.
