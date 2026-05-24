@@ -1,0 +1,2 @@
+# API-Hub-GPT5.5-To-IMAGE2-GUI
+API Hub GPT5.5 To IMAGE2 GUI，透过使用中转站API GPT5.5实现生图，只要是正常的GPT5.5基本上可以。
