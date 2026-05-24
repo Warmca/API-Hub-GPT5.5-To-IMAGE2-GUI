@@ -6,6 +6,7 @@
 
 **仅 Windows 测试**，未做 Linux/macOS 适配。
 
+https://freemodel.dev/invite/FRE-bd6c4f40 用的是这家的API测试
 ---
 
 ## 它能做什么
